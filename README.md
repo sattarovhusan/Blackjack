@@ -1,4 +1,4 @@
-# Blackjack-
+# Blackjack
 
 This is my version of the famous card game "Blackjack"! This project taught me a lot about planning and the process of creating a product. This is because I had to test every little piece of the game to ensure that everything works as expected.
 
